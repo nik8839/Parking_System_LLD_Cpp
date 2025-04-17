@@ -1,0 +1,29 @@
+# Ignore build and output files
+output/
+*.exe
+*.o
+*.obj
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore other unnecessary files
+*.class
+*.pyc
+*.pyo
+*.out
+*.cache
+*.lock
